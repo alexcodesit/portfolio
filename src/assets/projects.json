@@ -5,7 +5,7 @@
     "img": "/portfolio/pixelcode.png",
     "tools": ["godot", "gdscript", "aseprite"],
     "category": ["game", "fav"],
-    "link": "https://github.com/noirecode/pixelcode"
+    "link": "https://github.com/alexcodesit/pixelcode"
   },
   {
     "id": "portfolio",
@@ -13,7 +13,7 @@
     "img": "/portfolio/portfolio.png",
     "tools": ["vue.js", "tailwind css"],
     "category": "web",
-    "link": "https://noirecode.github.io/portfolio/"
+    "link": "https://alexcodesit.github.io/portfolio/"
   },
   {
     "id": "generator",
@@ -21,6 +21,6 @@
     "img": "/portfolio/themegen.png",
     "tools": ["html", "javascript", "css"],
     "category": ["web", "fav"],
-    "link": "https://github.com/noirecode/theme-generator"
+    "link": "https://github.com/alexcodesit/theme-generator"
   }
 ]
