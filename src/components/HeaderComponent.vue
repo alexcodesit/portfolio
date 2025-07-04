@@ -63,13 +63,8 @@ const headerButtonStyle =
           <span :class="langIcon.icon"></span>
         </button>
         <button :class="headerButtonStyle">
-          <a href="https://github.com/noirecode" target="_blank"
+          <a href="https://github.com/alexcodesit" target="_blank"
             ><span class="icon-[bi--github] size-5"></span
-          ></a>
-        </button>
-        <button :class="headerButtonStyle">
-          <a href="https://noiregames.itch.io/" target="_blank"
-            ><span class="icon-[cib--itch-io] size-5"></span
           ></a>
         </button>
         <button :class="headerButtonStyle">
