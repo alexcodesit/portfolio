@@ -1,0 +1,12 @@
+{
+    "subtitle" : "Estudiante de Ingeniería en Computación y Desarrolladora Front End",
+    "about-title": "sobre mí",
+    "about": "Hola, soy Alejandra, o Alex para abreviar, una apasionada desarrolladora junior con una fuerte ambición de convertirse en una ingeniera de software de pleno derecho. Me apasiona desarrollar soluciones de software que den vida a las ideas a través del código. Mi trayectoria comenzó con tecnologías front-end como HTML, CSS y JavaScript, lo que me dio una base sólida para crear interfaces dinámicas y responsivas. Aunque también tengo conocimientos de otros lenguajes como Python y C++. Siempre estoy dispuesta a aprender más y expandir mis habilidades en otras áreas del desarrollo y diseño de software. ¡Echa un vistazo a mi trabajo y construyamos algo increíble juntos!",
+    "projects-title": "projectos",
+    "p-fave" : "favoritos",
+    "p-game" : "videojuegos",
+    "p-all" : "todos",
+    "pixelcode": "Para mi proyecto de tesis de grado en ingeniería en Computación, desarrollé un videojuego educativo para dispositivos móviles Android, diseñado para enseñar a los usuarios los conceptos básicos de programación, como bucles, sentencias if y funciones. El juego se creó utilizando el motor de juegos Godot, de código abierto y gratuito, y se escribió en su lenguaje nativo, GDScript.",
+    "portfolio": "¡Hice este sitio web que estás navegando ahora mismo! Usando Vue.js y TailwindCSS.",
+    "generator": "Creé un generador de temas basado en la web que permite a los usuarios personalizar varios aspectos de un diseño estático predefinido, como colores, estilos, bordes, espacios, relleno y tamaños. Los usuarios también pueden habilitar o deshabilitar ciertos componentes como el encabezado, las barras laterales y el pie de página, así como insertar una imagen de encabezado, entre otras opciones. Una vez realizadas las personalizaciones, la aplicación genera el HTML y CSS correspondientes, listos para ser copiados y pegados en un archivo .html. Desarrollé esto utilizando HTML, CSS y JavaScript."
+}

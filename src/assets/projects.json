@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pixelcode",
+    "title": "PixelCode",
+    "img": "/portfolio/pixelcode.png",
+    "tools": ["godot", "gdscript", "aseprite"],
+    "category": ["game", "fav"],
+    "link": "https://github.com/noirecode/pixelcode"
+  },
+  {
+    "id": "portfolio",
+    "title": "Portfolio",
+    "img": "/portfolio/portfolio.png",
+    "tools": ["vue.js", "tailwind css"],
+    "category": "web",
+    "link": "https://noirecode.github.io/portfolio/"
+  },
+  {
+    "id": "generator",
+    "title": "Theme Generator",
+    "img": "/portfolio/themegen.png",
+    "tools": ["html", "javascript", "css"],
+    "category": ["web", "fav"],
+    "link": "https://github.com/noirecode/theme-generator"
+  }
+]

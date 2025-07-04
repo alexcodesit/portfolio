@@ -1,0 +1,12 @@
+{
+    "subtitle" : "Computer Engineering Student & Front End Developer",
+    "about-title": "about me",
+    "about": "Hi, I'm Alejandra, or Alex for short, a passionate junior developer with a strong ambition to grow into a full-fledged software engineer. I'm passionate about developing software solutions that bring ideas to life through code. My journey began with front-end technologies like HTML, CSS, and JavaScript, giving me a strong foundation in creating dynamic, responsive interfaces. Though I'm also knowleageable in other languages such as Python and C++. I'm always eager to learn more and expand my skills in other areas of software development and design. Take a look at my work, and let's build something amazing together!",
+    "projects-title": "projects",
+    "p-fave" : "favorite",
+    "p-game" : "games",
+    "p-all" : "all",
+    "pixelcode": "For my computer engineering degree's thesis project, I developed an educational puzzle-based video game for Android mobile devices, designed to teach users the basics of programming, such as loops, if statements, and functions. The game was built using the free and open-source Godot game engine and written in its native language, GDScript.",
+    "portfolio": "I made the website you are browsing right now! Using Vue.js and TailwindCSS.",
+    "generator": "I created a web-based theme generator that allows users to customize various aspects of a pre-made static layout, such as colors, styles, borders, gaps, padding, and sizes. Users can also enable or disable certain components like the header, sidebars, and footer, as well as insert a header image, among other options. Once the customizations are made, the app generates the corresponding HTML and CSS, ready to be copy-pasted into an .html file. I developed this using HTML, CSS, and JavaScript."
+}

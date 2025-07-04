@@ -1,0 +1,12 @@
+{
+    "subtitle" : "Student der Computertechnik und Frontend-Entwickler",
+    "about-title": "über mich",
+    "about": "Hallo, ich bin Alejandra, oder kurz Alex, eine leidenschaftliche Junior-Entwicklerin mit dem starken Ehrgeiz, sich zu einer vollwertigen Softwareentwicklerin zu entwickeln. Ich entwickle leidenschaftlich gerne Softwarelösungen, die Ideen durch Code zum Leben erwecken. Meine Reise begann mit Front-End-Technologien wie HTML, CSS und JavaScript, die mir eine solide Grundlage für die Erstellung dynamischer, reaktionsfähiger Schnittstellen gaben. Allerdings kenne ich mich auch mit anderen Sprachen wie Python und C++ aus. Ich bin immer bestrebt, mehr zu lernen und meine Fähigkeiten in anderen Bereichen der Softwareentwicklung und des Designs zu erweitern. Schauen Sie sich meine Arbeit an und lassen Sie uns gemeinsam etwas Großartiges bauen!",
+    "projects-title": "projekte",
+    "p-fave" : "lieblingsprojekte",
+    "p-game" : "videospiele",
+    "p-all" : "alle",
+    "pixelcode": "Für mein Abschlussprojekt im Bereich Computertechnik habe ich ein pädagogisches Puzzle-Videospiel für Android-Mobilgeräte entwickelt, das den Benutzern die Grundlagen der Programmierung wie Schleifen, if-Anweisungen und Funktionen beibringen soll. Das Spiel wurde mit der kostenlosen und quelloffenen Godot-Spiel-Engine erstellt und in der nativen Sprache GDScript geschrieben.",
+    "portfolio": "Ich habe die Website erstellt, die Sie gerade durchsuchen! Verwendung von Vue.js und TailwindCSS.",
+    "generator": "Ich habe einen webbasierten Theme-Generator erstellt, mit dem Benutzer verschiedene Aspekte eines vorgefertigten statischen Layouts anpassen können, beispielsweise Farben, Stile, Ränder, Lücken, Polsterung und Größen. Benutzer können außerdem bestimmte Komponenten wie Kopfzeile, Seitenleisten und Fußzeile aktivieren oder deaktivieren sowie ein Kopfzeilenbild einfügen und andere Optionen nutzen. Sobald die Anpassungen vorgenommen wurden, generiert die App das entsprechende HTML und CSS, das dann per Copy-and-paste in eine HTML-Datei eingefügt werden kann. Ich habe dies mit HTML, CSS und JavaScript entwickelt."
+}
